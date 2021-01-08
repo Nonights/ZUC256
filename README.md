@@ -34,6 +34,7 @@ test result for three functions to obtain optimal performance both in the single
 For any questions on building or running the project, please send a e-mail to
 [Bai Liang]gmu.shmily@gmail.com
 
+## Copyright
 Copyright 2021 SDT(CN) Ltd.
 
 ## Citation
