@@ -1,5 +1,5 @@
 # ZUC256
-#Fast software implementation with AVX512 instructions of ZUC256
+Fast software implementation with AVX512 instructions of ZUC256
 
 This is the implementation of our paper: **Efficient software Implementation of ZUC-256 (to be published in the Journal of Cryptography)**.
 
