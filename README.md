@@ -3,7 +3,7 @@
 
 This is the implementation of our paper: **Efficient software Implementation of ZUC-256 (to be published in the Journal of Cryptography)**.
 
-Evaluating on a single server (` 8-cores Intel Xeon Gold 6128 CPU @ 3.40GHz and 128GB of RAM`) with a single thread per party, our project reaches performance speed up to 21Gbs.
+Evaluating on a single server (` 6-cores Intel Xeon Gold 6128 CPU @ 3.40GHz and 128GB of RAM`) with a single thread per party, our project reaches performance speed up to 21Gbs.
 
 ## License
 This project has been placed in the public domain. As such, you are unrestricted in how you use it, commercial or otherwise. However, no warranty of fitness is provided. If you found this project helpful, feel free to spread the word and cite us.
