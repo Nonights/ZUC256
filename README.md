@@ -12,6 +12,7 @@ This project has been placed in the public domain. As such, you are unrestricted
  Our code has been tested on Windows . C++ compiler with C++14 support. There are several library dependencies including:
  
 1.Compiling with Microsoft Visual Studio 2017 or 2019;
+
 2.CPU processor needs to support AES-NI instructions and AVX512 instructions.
    
 ## Building the Project
