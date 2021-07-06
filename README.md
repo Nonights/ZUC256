@@ -1,6 +1,6 @@
 ﻿# Fast software implementation with AVX512 instructions of ZUC256
 
-This is the implementation of our paper: **Efficient software Implementation of ZUC-256 (to be published in the Journal of Cryptography)**.
+This is the implementation of our paper: **Efficient software Implementation of ZUC-256 (published in the Journal of Cryptography)**.
 
 Evaluating on a single server (` 8-cores Intel Xeon Gold 6128 CPU @ 3.40GHz and 128GB of RAM`) with a single thread per party, our project reaches performance speed up to 21Gbs.
 
@@ -37,4 +37,5 @@ Copyright 2021 SDT(CN) Ltd.
 
 ## Citation
 [1] Design Team. ZUC-256 stream cipher[J]. Journal of Cryptologic Research, 2018, 5(2): 167-179.
+
 [2] BAI L, JIA W Y, ZHU G Z. Efficient software implementations of ZUC-256[J]. Journal of Cryptologic Research, 2021, 8(3):521-536. [DOI: 10.13868/j.cnki.jcr.000455]
