@@ -1,0 +1,7 @@
+﻿  ZUC256_TEST_AVX512.c
+  Generating code
+  15 of 18 functions (83.3%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  ZUC256_AVX512.vcxproj -> C:\Users\nyc\Desktop\ZUC256-GitHub\ZUC256_AVX512\x64\Release\ZUC256_AVX512.exe

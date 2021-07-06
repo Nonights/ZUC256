@@ -1,0 +1,90 @@
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.914 seconds
+ Test Speed	 25.91 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.891 seconds
+ Test Speed	 26.11 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.942 seconds
+ Test Speed	 25.66 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.897 seconds
+ Test Speed	 26.06 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.902 seconds
+ Test Speed	 26.02 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.956 seconds
+ Test Speed	 25.54 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 3.065 seconds
+ Test Speed	 24.63 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.888 seconds
+ Test Speed	 26.14 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.892 seconds
+ Test Speed	 26.11 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 2.892 seconds
+ Test Speed	 26.11 Gbps
+
+

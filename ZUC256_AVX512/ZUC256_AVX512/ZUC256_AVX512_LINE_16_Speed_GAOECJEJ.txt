@@ -1,0 +1,18 @@
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 3.697 seconds
+ Test Speed	 20.42 Gbps
+
+
+
+
+ ZUC256_AVX512_LINE_16 : one line generate 9000 bytes keystream
+ Test Function	 ZUC256_CRYPT_AVX512
+ Test Times	 1<<16
+ Test Time	 3.685 seconds
+ Test Speed	 20.49 Gbps
+
+
